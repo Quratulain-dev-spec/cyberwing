@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the staging branch of share.txt
+=======
+This is the dev branch of share.txt
+>>>>>>> dev
